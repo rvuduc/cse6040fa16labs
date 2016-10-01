@@ -1,4 +1,4 @@
-country,year,key,count
+country,year,case_type,count
 Albania,2006,new_ep_f014,7
 Albania,2007,new_ep_f014,1
 Albania,2008,new_ep_f014,3
